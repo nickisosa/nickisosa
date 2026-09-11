@@ -3,7 +3,7 @@
 <!--
 **nickisosa/nickisosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-### Hey, Hey 💕 I'm Nicolle ✨❤️🌻
+### Hey, Hey 💕 I'm Nicolle ✨
 ### 🔐 Cybersecurity | DFIR | Python 
 
 I'm an entry-level cybersecurity professional with a **B.A. in Computer Science** and a **Google Cybersecurity Certificate** and **Google IT Certificate**.
